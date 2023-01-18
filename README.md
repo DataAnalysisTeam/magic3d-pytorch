@@ -1,3 +1,5 @@
+<img src="./magic3d.png" width="450px"></img>
+
 ## Magic3D - Pytorch (wip)
 
 Implementation of <a href="https://deepimagination.cc/Magic3D/">Magic3D</a>, Text to 3D content synthesis, in Pytorch. Will be constructed in the event that the authors do not open source their code by new years 2023.
